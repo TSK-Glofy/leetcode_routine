@@ -8,3 +8,6 @@
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 * [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
+
+## 2025/04/03
+* [15. 3Sum](https://leetcode.com/problems/3sum/description/)

@@ -14,8 +14,6 @@ class Solution:
                 return [nums_table[complement], i]
             else:
                 nums_table[num] = i
-
-
-        
+       
 # @lc code=end
 

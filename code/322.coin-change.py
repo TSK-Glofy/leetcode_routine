@@ -26,7 +26,6 @@ class Solution:
             return res
         else:
             return -1
-
-        
+       
 # @lc code=end
 
