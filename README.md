@@ -11,3 +11,6 @@
 
 ## 2025/04/03
 * [15. 3Sum](https://leetcode.com/problems/3sum/description/)
+
+## 2025/04/05
+* [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
