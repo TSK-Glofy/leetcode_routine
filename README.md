@@ -14,3 +14,4 @@
 
 ## 2025/04/05
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
