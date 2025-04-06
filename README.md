@@ -15,3 +15,7 @@
 ## 2025/04/05
 * [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 * [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
+## 2025/04/06
+* [每日一题368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description)
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
